@@ -1,7 +1,7 @@
-# Anyone But Sk1er Public License
-### 1.0.0 2021
+# Anyone But Sk1er License
+### 1.0.2 2021
 
-Copyright © xxxx <copyright holders>
+Copyright © xxxx `<copyright holders>`
 
 This software is licensed under the "Anyone But Sk1er" (ABS) license, 
 described below. No other licenses may apply.
