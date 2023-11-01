@@ -1,10 +1,10 @@
 # Anyone But Sk1er License
-### 1.1.0 2023
+### 1.1.1 2023
 
 Copyright © xxxx `<copyright holders>`
 
 This software is licensed under the "Anyone But Sk1er" (ABS) license, 
-described below. No other licenses may apply.
+described below. No other license may be applied unless all terms under the Exceptions section are met, using the exact same wording for both the exceptions and definitions.
 
 ## The "Anyone But Sk1er" license
 
@@ -27,5 +27,3 @@ that makes use of some or all of this software.
 
 Any members of Sk1er LLC may not make use of or redistribute this software 
 or any of its derivatives.
-
-Any derivatives of this software must be under a license with the previous exception, using the exact same wording for both the exception and the definition.
