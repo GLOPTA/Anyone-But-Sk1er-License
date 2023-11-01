@@ -1,5 +1,5 @@
 # Anyone But Sk1er License
-### 1.0.2 2021
+### 1.1.0 2023
 
 Copyright © xxxx `<copyright holders>`
 
@@ -28,5 +28,4 @@ that makes use of some or all of this software.
 Any members of Sk1er LLC may not make use of or redistribute this software 
 or any of its derivatives.
 
-Any derivatives of this software must be licensed under the "Anyone 
-But Sk1er" license.
+Any derivatives of this software must be under a license with the previous exception, using the exact same wording for both the exception and the definition.
